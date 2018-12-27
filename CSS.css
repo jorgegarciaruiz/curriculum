@@ -1,0 +1,27 @@
+*{
+    line-height: 0.5rem;
+    margin-left: 1%;
+    text-align: left;
+    font-size: 16pt;
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
+strong{
+    margin-left: 0;
+}
+p.descripcion{
+    font-size: 1rem;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: dodgerblue;
+    border-width: 0 0 medium 0;
+}
+h1:nth-child(n+2){
+    background-color: bisque;
+    border-style: solid;
+    border-color: bisque;
+    border-width: 1rem;
+
+}
