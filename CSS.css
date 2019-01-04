@@ -3,6 +3,7 @@
     margin-left: 1%;
     text-align: left;
     font-size: 16pt;
+    font-family: Calibri, sans-serif;
 }
 h1{
     text-align: center;
@@ -24,4 +25,7 @@ h1:nth-child(n+2){
     border-color: bisque;
     border-width: 1rem;
 
+}
+a{
+    text-decoration: none;
 }
